@@ -22,11 +22,11 @@
         "phpunit/phpunit": "8 - 9"
     },
     "autoload": {
-        "psr-4": { "Konekt\\PdfInvoice\\": "src/" }
+        "psr-4": { "hrabosh\\PdfInvoice\\": "src/" }
     },
     "autoload-dev": {
         "psr-4": {
-            "Konekt\\PdfInvoice\\Tests\\": "tests/"
+            "hrabosh\\PdfInvoice\\Tests\\": "tests/"
         }
     }
 }
